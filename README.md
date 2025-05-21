@@ -46,6 +46,9 @@
       After scanning, you can save results in JSON or TXT format.
       Reports are saved in the 'reports/' folder.
 
+
+DEVELOP BY CEKA - ALMAHMOUDI
+
     Running on Termux (Android):
       pkg install python git
       pip install aiohttp colorama
