@@ -23,7 +23,7 @@
     Requirements:
       - Python 3.7+
       - Install dependencies:
-          pip install aiohttp colorama
+          pip install -r requirements.txt --break-system-packages
 
 
     How to Run:
@@ -48,8 +48,6 @@
 
     Running on Termux (Android):
       pkg install python git
-      pip install aiohttp colorama
+      pip install aiohttp
+      pip install colorama
       python ceka-ps.py
-
-
-#DEVELOP BY CEKA - ALMAHMOUDI
